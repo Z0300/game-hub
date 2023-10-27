@@ -1,4 +1,4 @@
-import { Grid, GridItem, Show, Hide } from "@chakra-ui/react";
+import { Grid, GridItem, Show } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
 
 function App() {
